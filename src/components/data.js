@@ -1,4 +1,4 @@
-export const Data = [
+export const faqData = [
         {
             id:1,
             question: 'How many team members can I invite?',
