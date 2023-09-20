@@ -1,4 +1,4 @@
-export const data = [
+export const Data = [
         {
             id:1,
             question: 'How many team members can I invite?',
